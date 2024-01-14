@@ -35,7 +35,7 @@ npm run dev
 
 4. **Open the application in your browser:**
 
-The application will typically open at `http://localhost:3000/`.
+The application will typically open at `http://localhost:5173/`.
 
 ## Key Technologies:
 
