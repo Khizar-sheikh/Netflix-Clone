@@ -10,7 +10,10 @@ This project is a frontend clone of the popular Netflix streaming platform, buil
 * View detailed information about each title, including trailers, ratings, and synopses 
 * Search for specific titles or genres 
 * Dynamically fetched content ensures up-to-date information 
-* User-friendly interface for seamless navigation 
+* User-friendly interface for seamless navigation
+
+## Video Preview
+(Click Here For Video Preview)[https://drive.google.com/file/d/1eQ8jGtl-cdE4CL8Muc5qWMHq85vimUwq/view?usp=sharing]
 
 ## Getting Started:
 
