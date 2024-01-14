@@ -55,10 +55,10 @@ The application will typically open at `http://localhost:3000/`.
 
 Contributions are welcome! Feel free to open issues or pull requests to suggest improvements or report bugs.
 
-**## License:**
+## License:
 
 This project is licensed under the MIT License.
 
-**## Enjoy the Clone!**
+## Enjoy the Clone!
 
 We hope you enjoy exploring this Netflix Clone. Feel free to contribute and make it your own!
