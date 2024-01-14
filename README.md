@@ -12,7 +12,7 @@ This project is a frontend clone of the popular Netflix streaming platform, buil
 * Dynamically fetched content ensures up-to-date information 
 * User-friendly interface for seamless navigation 
 
-**##  Getting Started:**
+## Getting Started:
 
 1. **Clone the repository:**
 
